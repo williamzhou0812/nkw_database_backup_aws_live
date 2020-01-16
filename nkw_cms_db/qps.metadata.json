@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"nkw_cms_db.qps"}],"uuid":"12290c4938ff4f7a8c5840be1af834cc"}

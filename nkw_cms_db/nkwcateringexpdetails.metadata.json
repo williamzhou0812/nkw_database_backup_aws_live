@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"nkw_cms_db.nkwcateringexpdetails"}],"uuid":"3025fcd0e6c8432b8c14dde5c0168f3b"}

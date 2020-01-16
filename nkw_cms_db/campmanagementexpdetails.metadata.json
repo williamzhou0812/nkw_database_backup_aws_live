@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"nkw_cms_db.campmanagementexpdetails"}],"uuid":"05583c9673e0409db48cfe83d052f6c7"}

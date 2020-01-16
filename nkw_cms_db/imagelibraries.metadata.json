@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"nkw_cms_db.imagelibraries"}],"uuid":"6c4acb59695d4141b592fb43dff3d811"}

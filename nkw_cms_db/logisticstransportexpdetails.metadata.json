@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"nkw_cms_db.logisticstransportexpdetails"}],"uuid":"47875a4814a942bba6e3c67b4d191732"}

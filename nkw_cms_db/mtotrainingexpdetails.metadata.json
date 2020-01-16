@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"nkw_cms_db.mtotrainingexpdetails"}],"uuid":"9646785c3572410fa7034ae0c4ddff15"}
